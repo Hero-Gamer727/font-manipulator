@@ -1,0 +1,20 @@
+#heading{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 5px 5px 5px grey;
+  }
+  
+  .copy_right_footer{
+      background-color: grey;
+      text-align: center;
+      position: fixed ;
+      bottom: 0;
+      width: 100%;
+      font-size: 22px;
+      padding: 10px;
+      color: white;
+      font-family:'Times New Roman';
+      font-weight: bold;
+      font-style:oblique;
+      text-shadow:2px 2px black;
+    }
