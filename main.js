@@ -11,7 +11,7 @@ function setup() {
 }
 
 function modelLoaded() {
-    console.log("Model Loaded!")
+    console.log("Model Loaded!");
 }
 
 
@@ -21,3 +21,4 @@ if(results.length > 0){
 
 }
 }
+

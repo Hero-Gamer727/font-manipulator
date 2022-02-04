@@ -18,3 +18,9 @@
       font-style:oblique;
       text-shadow:2px 2px black;
     }
+
+    canvas{
+      background-color: gray;
+      border: 5px ridge black;
+      margin-top: 100px;
+    }
